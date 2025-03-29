@@ -1,0 +1,10 @@
+Overflow: hidden
+flex: 1;
+appereance property
+
+track -> pseudo elements -webkit-slider-thumb
+and thumb for player: -> -webkit-slider-track
+
+@mediaqueries
+
+Box Model
